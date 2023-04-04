@@ -1,0 +1,5 @@
+read iteam1, iteam2, iteam3
+final price=iteam1+iteam2+iteam3
+if final price is greater than 500 then give discount 30
+else no discount 
+display final price 
